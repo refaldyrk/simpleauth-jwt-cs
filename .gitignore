@@ -1,0 +1,5 @@
+.idea
+AuthSimpleAPI/appsettings.json
+AuthSimpleAPI/appsettings.Development.json
+AuthSimpleAPI/bin
+AuthSimpleAPI/obj
